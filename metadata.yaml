@@ -1,0 +1,33 @@
+_repo: Aurelia-b-Itamainen-kuvaus-Kristuksen-ajoilta_74760
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huntuvuori, Hilda
+    birthdate: 1887
+    deathdate: 1968
+    gutenberg_agent_id: '53568'
+    url: http://www.gutenberg.org/2009/agents/53568
+    wikipedia: https://fi.wikipedia.org/wiki/Hilda_Huntuvuori
+description: ''
+gutenberg_issued: '2024-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74760'
+language: fi
+pgterms:marc905: 20241031041549huntuvuori
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bOtava, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Jesus Christ -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Aurelia : $b Itämainen kuvaus Kristuksen ajoilta'
+url: http://www.gutenberg.org/ebooks/74760
